@@ -28,7 +28,7 @@ let package = Package(
         .Package(url: "https://github.com/vapor/crypto.git", majorVersion: 1),
 
         // ORM for interacting with databases
-        .Package(url: "https://github.com/vapor/fluent.git", majorVersion: 1),
+        .Package(url: "https://github.com/dernise/fluent.git", majorVersion: 1),
 
         // Core vapor transport layer
         .Package(url: "https://github.com/vapor/engine.git", majorVersion: 1),
